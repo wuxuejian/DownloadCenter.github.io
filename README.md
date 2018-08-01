@@ -3,6 +3,7 @@
 |[Office](https://www.office.com) 办公软件|[32 位](https://c2rsetup.officeapps.live.com/c2r/download.aspx?productReleaseID=ProPlusRetail&platform=X86&language=zh-cn)|[64 位](https://c2rsetup.officeapps.live.com/c2r/download.aspx?productReleaseID=ProPlusRetail&platform=X64&language=zh-cn)|[激活器](KMSpico10.2.0.zip) [申请试用](http://go.microsoft.com/fwlink/p/?LinkId=395198&clcid=0x804)|
 |[Chrome](https://www.google.cn/chrome/) 浏览器|[32 位](https://www.google.cn/chrome/)|[64 位](https://www.google.cn/chrome/)|下载与更新均无需科学上网
 |[Firefox](https://www.mozilla.org/zh-CN/firefox/) 浏览器|[32 位](https://pc.qq.com/detail/7/detail_2867.html)|[64 位](https://pc.qq.com/detail/1/detail_321.html)|请选择「普通下载」！
+|[Power Keys](https://PowerKeys.GitHub.io) 键盘流效率软件|[32 位](https://github.com/szzhiyang/PerfectWindows/raw/master/Power-Keys/Power-Keys-x86.exe)|[64 位](https://github.com/szzhiyang/PerfectWindows/raw/master/Power-Keys/Power-Keys-x64.exe)
 |[7-Zip](https://www.7-zip.org/) 解压缩软件|[32 位](https://www.7-zip.org/a/7z1805.exe)|[64 位](https://www.7-zip.org/a/7z1805-x64.exe)|
 |[FDM](https://www.freedownloadmanager.org) 下载管理器|[32 位](https://pc.qq.com/detail/1/detail_421.html)|[64 位](https://pc.qq.com/detail/6/detail_22826.html)|请选择「普通下载」！
 |[MPC-HC](https://mpc-hc.org/) 音视频播放器|[32 位](https://pc.qq.com/detail/9/detail_22189.html)|[64 位](https://pc.qq.com/detail/9/detail_22169.html)|请选择「普通下载」！
