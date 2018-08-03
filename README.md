@@ -14,6 +14,7 @@
 |[OneDrive](https://support.office.com/onedrive) 网盘客户端|[32 位](https://go.microsoft.com/fwlink/?linkid=844652)|[64 位](https://go.microsoft.com/fwlink/?linkid=844652)|免费闭源
 |[TIM](http://office.qq.com) 即时通讯软件|[32 位](https://qd.myapp.com/myapp/qqteam/tim/down/tim_pc.exe)|[64 位](https://qd.myapp.com/myapp/qqteam/tim/down/tim_pc.exe)|免费闭源
 |[微信](https://pc.weixin.qq.com/) 即时通讯软件|[32 位](http://dldir1.qq.com/weixin/Windows/WeChatSetup.exe)|[64 位](http://dldir1.qq.com/weixin/Windows/WeChatSetup.exe)|免费闭源
+|[Autoruns](https://docs.microsoft.com/sysinternals/downloads/autoruns) 自启项管理工具|[32 位](https://live.sysinternals.com/autoruns.exe)|[64 位](https://live.sysinternals.com/autoruns64.exe)|免费闭源
 |赛风 翻墙软件|[32 位](Psiphon3.exe)|[64 位](Psiphon3.exe)|免费开源
 |无界浏览 翻墙软件|[32 位](Ultrareach18.02.exe)|[64 位](Ultrareach18.02.exe)|免费闭源
 
