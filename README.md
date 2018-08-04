@@ -4,6 +4,7 @@
 |[Chrome](https://www.google.cn/chrome/) 浏览器|[32 位](https://www.google.cn/chrome/)|[64 位](https://www.google.cn/chrome/)|免费开源
 |[Firefox](https://www.mozilla.org/zh-CN/firefox/) 浏览器|[32 位](https://download.mozilla.org/?product=firefox-stub&os=win&lang=zh-CN)|[64 位](https://download.mozilla.org/?product=firefox-stub&os=win&lang=zh-CN)|免费开源
 |[Power Keys](https://PowerKeys.GitHub.io) 键盘流效率软件|[32 位](https://PowerKeys.GitHub.io)|[64 位](https://PowerKeys.GitHub.io)|免费开源
+|[Control Panel Plus](https://ControlPanelPlus.GitHub.io) 系统优化工具|[32 位](https://ControlPanelPlus.GitHub.io)|[64 位](https://ControlPanelPlus.GitHub.io)|免费开源
 |[7-Zip](https://www.7-zip.org/) 解压缩软件|[32 位](https://sm.myapp.com/original/Compression/7z1805-32.exe)|[64 位](https://sm.myapp.com/original/Compression/7z1805-x64.exe)|免费开源
 |[FDM](https://www.freedownloadmanager.org) 下载管理器|[32 位](https://sm.myapp.com/original/Download/fdm5_x86_setup-5.1.37.7258.exe)|[64 位](https://sm.myapp.com/original/Download/fdm5_x64_setup-5.1.37.7258.exe)|免费闭源
 |[MPC-HC](https://mpc-hc.org/) 音视频播放器|[32 位](https://sm.myapp.com/original/Video/MPC-HC.1.7.13.x86.exe)|[64 位](https://sm.myapp.com/original/Video/MPC-HC.1.7.13.x64.exe)|免费开源
@@ -16,6 +17,7 @@
 |[TIM](http://office.qq.com) 即时通讯软件|[32 位](https://qd.myapp.com/myapp/qqteam/tim/down/tim_pc.exe)|[64 位](https://qd.myapp.com/myapp/qqteam/tim/down/tim_pc.exe)|免费闭源
 |[微信](https://pc.weixin.qq.com/) 即时通讯软件|[32 位](http://dldir1.qq.com/weixin/Windows/WeChatSetup.exe)|[64 位](http://dldir1.qq.com/weixin/Windows/WeChatSetup.exe)|免费闭源
 |[Autoruns](https://docs.microsoft.com/sysinternals/downloads/autoruns) 自启项管理工具|[32 位](https://live.sysinternals.com/autoruns.exe)|[64 位](https://live.sysinternals.com/autoruns64.exe)|免费闭源
+|[TreeSize Free](https://www.jam-software.com/treesize_free/) 磁盘空间分析工具|[32 位](https://www.jam-software.de/treesize_free/TreeSizeFreeSetup.exe)|[64 位](https://www.jam-software.de/treesize_free/TreeSizeFreeSetup.exe)|免费闭源
 |赛风 翻墙软件|[32 位](Psiphon3.exe)|[64 位](Psiphon3.exe)|免费开源
 |无界浏览 翻墙软件|[32 位](Ultrareach18.02.exe)|[64 位](Ultrareach18.02.exe)|免费闭源
 
