@@ -11,6 +11,7 @@
 |[Acrobat DC](https://acrobat.adobe.com/cn/zh-Hans/acrobat.html)  PDF 查看编辑器|[32 位](https://helpx.adobe.com/cn/acrobat/kb/acrobat-dc-downloads.html)|[64 位](https://helpx.adobe.com/cn/acrobat/kb/acrobat-dc-downloads.html)|[激活工具](AMTEmu0.9.2.exe)
 |[ESET Internet Security](https://www.eset.com/us/home/internet-security/) 杀毒软件|[32 位](https://download.eset.com/com/eset/apps/home/eis/windows/latest/eis_nt32.exe)|[64 位](https://download.eset.com/com/eset/apps/home/eis/windows/latest/eis_nt64.exe)|[激活密钥](http://www.zolsky.com/eset/nod32activationkey.htm)
 |[ShareX](https://getsharex.com) 截图录屏图床工具|[32 位](https://sm.myapp.com/original/Picture/ShareX-12.1.1-setup.exe)|[64 位](https://sm.myapp.com/original/Picture/ShareX-12.1.1-setup.exe)|免费开源
+|[Everything](https://www.voidtools.com) 文件搜索工具|[32 位](https://sm.myapp.com/original/System/Everything-1.4.1.895.x86-Setup.exe)|[64 位](https://sm.myapp.com/original/System/Everything-1.4.1.895.x64-Setup.exe)|免费闭源
 |[OneDrive](https://support.office.com/onedrive) 网盘客户端|[32 位](https://go.microsoft.com/fwlink/?linkid=844652)|[64 位](https://go.microsoft.com/fwlink/?linkid=844652)|免费闭源
 |[TIM](http://office.qq.com) 即时通讯软件|[32 位](https://qd.myapp.com/myapp/qqteam/tim/down/tim_pc.exe)|[64 位](https://qd.myapp.com/myapp/qqteam/tim/down/tim_pc.exe)|免费闭源
 |[微信](https://pc.weixin.qq.com/) 即时通讯软件|[32 位](http://dldir1.qq.com/weixin/Windows/WeChatSetup.exe)|[64 位](http://dldir1.qq.com/weixin/Windows/WeChatSetup.exe)|免费闭源
