@@ -20,6 +20,7 @@
 |[微信](https://pc.weixin.qq.com/) 即时通讯软件|[32 位](http://dldir1.qq.com/weixin/Windows/WeChatSetup.exe)|[64 位](http://dldir1.qq.com/weixin/Windows/WeChatSetup.exe)|免费闭源
 |赛风 翻墙软件|[32 位](Psiphon3.exe)|[64 位](Psiphon3.exe)|免费开源
 |无界浏览 翻墙软件|[32 位](Ultrareach18.02.exe)|[64 位](Ultrareach18.02.exe)|免费闭源
+|自由门 翻墙软件|[32 位](fg764p.exe)|[64 位](fg764p.exe)|免费闭源
 
 <br>
 
