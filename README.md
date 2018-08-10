@@ -1,5 +1,6 @@
 |[Windows 10](https://www.microsoft.com/zh-cn/windows)|[32 位](https://go.microsoft.com/fwlink/?LinkId=691209)|[64 位](https://go.microsoft.com/fwlink/?LinkId=691209)|[激活工具](hwidgen.mk3.exe)
 |:--|:-:|:-:|:--
+|Windows 10 S 默认壁纸|[32 位](Windows10S.jpg)|[64 位](Windows10S.jpg)|免费图片
 |[Office](https://www.office.com) 办公软件|[32 位](https://c2rsetup.officeapps.live.com/c2r/download.aspx?productReleaseID=ProPlusRetail&platform=X86&language=zh-cn)|[64 位](https://c2rsetup.officeapps.live.com/c2r/download.aspx?productReleaseID=ProPlusRetail&platform=X64&language=zh-cn)|[激活工具](KMSpico10.2.0.zip)|
 |[Chrome](https://www.google.cn/chrome/) 浏览器|[32 位](https://www.google.cn/chrome/)|[64 位](https://www.google.cn/chrome/)|免费开源
 |[Firefox](https://www.mozilla.org/zh-CN/firefox/) 浏览器|[32 位](https://download.mozilla.org/?product=firefox-stub&os=win&lang=zh-CN)|[64 位](https://download.mozilla.org/?product=firefox-stub&os=win&lang=zh-CN)|免费开源
