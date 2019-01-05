@@ -20,8 +20,10 @@
 |[OneDrive](https://support.office.com/onedrive) 网盘客户端|[32 位](https://go.microsoft.com/fwlink/?linkid=844652)|[64 位](https://go.microsoft.com/fwlink/?linkid=844652)|免费闭源
 |[TIM](http://office.qq.com) 即时通讯软件|[32 位](https://qd.myapp.com/myapp/qqteam/tim/down/tim_pc.exe)|[64 位](https://qd.myapp.com/myapp/qqteam/tim/down/tim_pc.exe)|免费闭源
 |[微信](https://pc.weixin.qq.com/) 即时通讯软件|[32 位](http://dldir1.qq.com/weixin/Windows/WeChatSetup.exe)|[64 位](http://dldir1.qq.com/weixin/Windows/WeChatSetup.exe)|免费闭源
-|Microsoft Flight 游戏|[32 位](http://download.gfwl.xboxlive.com/content/gfwl-public/packages/4d5308d2/4d5308d2e0000001.cab)|[64 位](http://download.gfwl.xboxlive.com/content/gfwl-public/packages/4d5308d2/4d5308d2e0000001.cab)|免费闭源
+|Microsoft Flight|[32 位](http://download.gfwl.xboxlive.com/content/gfwl-public/packages/4d5308d2/4d5308d2e0000001.cab)|[64 位](http://download.gfwl.xboxlive.com/content/gfwl-public/packages/4d5308d2/4d5308d2e0000001.cab)|免费闭源
 |Microsoft Flight Simulator X|[32 位](FSX.txt)|[64 位](FSX.txt)|收费闭源
+|Lockheed Martin Prepar3D|32 位|[64 位](http://dl1.fsxchina.com:8082/P3D/Main/P4%20Prepar3D%20Professional%20Plus%20V4.4.16.27077(Lockheed%20Martin).rar)|收费闭源
+|Quality Wings Ultimate 787 Collection|32 位|[64 位](http://dl.fsxchina.com:8081/dl/P3D/Aircraft/Boeing/P4%20Ultimate%20787%20Collection(Quality%20Wings).rar)|收费闭源
 |赛风 翻墙软件|[32 位](Psiphon3.exe)|[64 位](Psiphon3.exe)|免费开源
 |无界浏览 翻墙软件|[32 位](Ultrareach18.02.exe)|[64 位](Ultrareach18.02.exe)|免费闭源
 |自由门 翻墙软件|[32 位](fg764p.exe)|[64 位](fg764p.exe)|免费闭源
@@ -31,3 +33,4 @@
 * [点此链接](http://go.microsoft.com/fwlink/p/?LinkId=395198&clcid=0x804) 即可免费试用 Office 365。
 * Google Chrome 的下载与更新均无需科学上网。
 * 将 `119.29.72.159 update.eset.com` 加入 hosts 可显著提升 ESET Internet Security 的病毒库下载速度。
+* 如果破解 Prepar3D 时遇到问题，请删除注册表项 `HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{1A495DD3-72C8-4CA3-BB4F-573B7522472F}\ProgID` 的默认值后再试。
